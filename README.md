@@ -82,7 +82,3 @@ src/
 ├── App.jsx               # Main app container
 └── main.jsx              # React entry point
 ```
-
-## License
-
-MIT License - feel free to use, modify, and distribute this code for personal or commercial projects.
