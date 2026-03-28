@@ -2,6 +2,10 @@
 
 A React web application to track your hiking progress along the Bruce Trail in Ontario, Canada.
 
+## About the Bruce Trail
+
+The Bruce Trail is Canada's oldest and longest marked hiking trail, stretching over 900 km along the Niagara Escarpment from Niagara Falls to Tobermory. The trail is maintained by the Bruce Trail Conservancy and divided into 9 club sections, each managed by local volunteers. With hundreds of individual segments and side trails totaling over 1,400 km of hiking, this app helps you track your progress toward completing the entire trail.
+
 ## Features
 
 - **Interactive Map** - Leaflet-based map showing all trail segments with color-coded completion status
@@ -81,4 +85,4 @@ src/
 
 ## License
 
-MIT
+MIT License - feel free to use, modify, and distribute this code for personal or commercial projects.
